@@ -1,0 +1,46 @@
+EXTM3U
+ 
+ 
+MTvEXTM3U
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",mibn
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="futebol",SOL NASCENTE
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/SLNSCNTE.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="futebol",homen aranha
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/HOMEMARANHACASAHDDUB-BAIXO.mp4?token=ATmflcVdgdChCflvVUssyg&expires=1569303900
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",VELOZES
+http://mrq1.azureedge.net/movies/velozesfuriosos2019-dub-720p.mp4
+#EXTINF:0 tvg-logo="" group-title="futebol" , EMBALOS
+http://s3.vid.web.acsta.net/BR/nmedia/55/18/86/99/45/19446958_sd_013.mp4
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol", COM QUEM SERA
+http://cdn2.netcine.us/html/content/conteudolb4/filmes2019/COMQUEMSERA-BAIXO.mp4?token=h-ekKRMilf9myxOdrKySjQ&expires=1565430245
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol", o justiceiro
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/OJSTC2004.mp4?attachment=true
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol", ANGLE BIRDS
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/ANGRYBIRDSDUB-BAIXO.mp4?token=N9YU6Nq_pGZS8eg4wF98uQ&expires=1574147737
+#EXTINF:0 tvg-logo="" group-title="futebol", Nunca Visto (Dublado) - 2019 - 1080p
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/NCAVSTO.mp4?attachment=true
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol", BRED PITT
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ERAUMVZEMHLWD.mp4?attachment=true
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",CHAPE
+https://2221.janjua.pw:8088/adfree/futemax4v7/playlist.m3u8?id=91232&wowzasessionid=091334606&pk=386a890f2e5ac1b2baeaa727d4cb2c69a53d24baadd9c9c6d7c719fa0d32edb2
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",comunudade
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OBLHDUMCOMNDAD.mp4?attachment=true
+ #EXTINF:0 tvg-logo="" group-title="futebol",RIVER E BOCA
+https://2214.janjua.pw:8088/adfree/futemax4v7/playlist.m3u8?id=91232&wowzasessionid=948269588&pk=4786e36e30c427696599b6b1589c306a080a6816c3b65a687e2d47efdcbc472d
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",INTER FUTMAX
+https://thankyougod.futemax.tv/private/68e08d3be3b6154f6c409cbf4e7d4701/dvr/68e08d3be3b6154f6c409cbf4e7d4701/chunks.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",sportv
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_5360dee88a224ceb443754e3fd7c69af66c046ca/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol",COMBATE
+ https://2214.janjua.pw:8088/adfree/futemax9v2/playlist.m3u8?
