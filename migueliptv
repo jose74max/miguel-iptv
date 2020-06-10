@@ -10,3 +10,34 @@ http://tvnanet.xyz:25461/live/gabigol2020/cansado/26.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="futebol",spotv
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv3_e1a864f0_5b73dd845de2615f6a82aaf793f9669719043798/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAIS",SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" tvg-id="tv serra dourada" group-title="CANAIS",SBT GOCanal FutucAndroiD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO-Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/1.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO SD-Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/22356
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="https://2.bp.blogspot.com/-Fj37MKkXH5c/W55N2q9YhLI/AAAAAAAACfo/tMB8LPvBtaEFBy1b3g6Q_aTsTHWQ8yshgCLcBGAs/s1600/recordsp.png" group-title="CANAIS",RECORD TV SP SD- Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1710
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS", REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="via morena"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",VIA MORENA- Canal FutucAndroiD
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv diário"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW" tvg-id="0" group-title="CANAIS",DISNEY- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
